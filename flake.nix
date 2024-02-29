@@ -13,6 +13,7 @@
 
           # general tools
           git
+          git-lfs
           ffmpeg
           curl
           wget

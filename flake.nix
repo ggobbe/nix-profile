@@ -44,7 +44,7 @@
           # programming environments
           deno
           bun
-          nodejs
+          nodejs_20
           yarn
           go
           erlang_26

@@ -46,7 +46,8 @@
           deno
           bun
           nodejs_20
-          yarn
+          #yarn
+          corepack_20
           go
           erlang_26
           gleam

@@ -50,10 +50,10 @@
           corepack_20
           go
           erlang_26
-          gleam
+          #gleam
           rebar3
-          elixir_1_16
-          elixir-ls
+          #elixir_1_16
+          #elixir-ls
         ];
       };
   };

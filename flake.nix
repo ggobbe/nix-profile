@@ -26,6 +26,7 @@
           aerc
           btop
           jq
+          openssl
 
           # dev tools
           kubectl
@@ -33,25 +34,28 @@
           #lima
           protobuf
           buf
+          clang-tools
           mongodb-tools
           okteto
           docker
           dive
-          biome
+          #biome
+          #android-tools
+          mise
 
           # infrastructure
           k9s
 
           # programming environments
-          deno
-          bun
-          nodejs_20
+          #deno
+          #bun
+          #nodejs_20
           #yarn
-          corepack_20
-          go
-          erlang_26
+          #corepack_20
+          #go
+          #erlang_26
           #gleam
-          rebar3
+          #rebar3
           #elixir_1_16
           #elixir-ls
         ];

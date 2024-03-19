@@ -27,6 +27,7 @@
           btop
           jq
           openssl
+          yazi
 
           # dev tools
           kubectl
@@ -35,6 +36,8 @@
           protobuf
           buf
           clang-tools
+          yaml-language-server    # yaml in helix
+          efm-langserver          # eslint in helix
           mongodb-tools
           okteto
           docker
@@ -42,22 +45,23 @@
           #biome
           #android-tools
           mise
+          flyctl
 
           # infrastructure
           k9s
 
           # programming environments
-          #deno
+          deno
           #bun
           #nodejs_20
           #yarn
           #corepack_20
           #go
-          #erlang_26
-          #gleam
-          #rebar3
+          erlang_26
+          rebar3
           #elixir_1_16
           #elixir-ls
+          #gleam
         ];
       };
   };

@@ -28,6 +28,8 @@
           jq
           openssl
           yazi
+          gitui
+          tig
 
           # dev tools
           kubectl
@@ -46,6 +48,9 @@
           #android-tools
           mise
           flyctl
+          neovim
+          monolith
+          just
 
           # infrastructure
           k9s
@@ -62,6 +67,11 @@
           #elixir_1_16
           #elixir-ls
           #gleam
+
+          # others
+          yt-dlp
+          exercism
+          taskwarrior
         ];
       };
   };

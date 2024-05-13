@@ -23,13 +23,14 @@
           zellij
           pandoc
           helix
-          aerc
+          #aerc
           btop
           jq
           openssl
           yazi
           gitui
           tig
+          readline
 
           # dev tools
           kubectl
@@ -37,6 +38,7 @@
           #lima
           protobuf
           buf
+          #buf-language-server
           clang-tools
           yaml-language-server    # yaml in helix
           efm-langserver          # eslint in helix
@@ -51,6 +53,7 @@
           neovim
           monolith
           just
+          sqlite
 
           # infrastructure
           k9s

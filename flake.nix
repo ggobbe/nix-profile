@@ -54,6 +54,10 @@
           monolith
           just
           sqlite
+          cmake
+          ninja
+          ccache
+          vscode-langservers-extracted  # eslint format in helix
 
           # infrastructure
           k9s

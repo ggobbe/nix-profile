@@ -58,18 +58,20 @@
           ninja
           ccache
           vscode-langservers-extracted  # eslint format in helix
+          podman
 
           # infrastructure
           k9s
 
           # programming environments
-          deno
+          #deno
           #bun
           #nodejs_20
           #yarn
           #corepack_20
           #go
-          erlang_26
+          #erlang_26
+          #erlang_27
           rebar3
           #elixir_1_16
           #elixir-ls

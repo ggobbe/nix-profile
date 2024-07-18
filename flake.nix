@@ -31,6 +31,8 @@
           gitui
           tig
           readline
+          watch
+          # fish
 
           # dev tools
           kubectl
@@ -57,8 +59,9 @@
           cmake
           ninja
           ccache
-          vscode-langservers-extracted  # eslint format in helix
-          podman
+          # vscode-langservers-extracted  # eslint format in helix
+          # podman
+          # rabbitmq-server
 
           # infrastructure
           k9s

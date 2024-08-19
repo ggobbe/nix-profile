@@ -73,8 +73,8 @@
           #yarn
           #corepack_20
           #go
-          #erlang_26
-          #erlang_27
+          # erlang_26
+          erlang_27
           rebar3
           #elixir_1_16
           #elixir-ls

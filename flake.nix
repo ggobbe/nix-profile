@@ -1,4 +1,8 @@
 # global flake.nix
+# nix profile install .
+# nix profile upgrade 0
+# nix profile remove 0
+# rm flake.lock
 
 {
   inputs = { nixpkgs.url = "github:NixOS/nixpkgs"; };
@@ -33,6 +37,7 @@
           readline
           watch
           # fish
+          chezmoi
 
           # dev tools
           kubectl

@@ -1,7 +1,7 @@
 # global flake.nix
 # nix profile install .
-# nix profile upgrade 0
-# nix profile remove 0
+# nix profile upgrade nix-ggobbe
+# nix profile remove nix-ggobbe
 # rm flake.lock
 
 {
@@ -27,7 +27,7 @@
           zellij
           pandoc
           helix
-          # aerc
+          aerc
           btop
           jq
           openssl
@@ -36,6 +36,7 @@
           tig
           readline
           watch
+          tree
           # fish
           chezmoi
 
@@ -67,6 +68,7 @@
           # vscode-langservers-extracted  # eslint format in helix
           # podman
           # rabbitmq-server
+          graphviz
 
           # infrastructure
           k9s

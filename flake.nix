@@ -74,18 +74,8 @@
           k9s
 
           # programming environments
-          #deno
-          #bun
-          #nodejs_20
-          #yarn
-          #corepack_20
-          #go
-          #erlang_26
-          #erlang_27
-          #rebar3
-          #elixir_1_16
-          #elixir-ls
-          #gleam
+          erlang_27
+          rebar3
 
           # others
           yt-dlp

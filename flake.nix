@@ -39,6 +39,8 @@
           tree
           # fish
           chezmoi
+          pstree
+          sapling
 
           # dev tools
           kubectl

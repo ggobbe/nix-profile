@@ -41,6 +41,8 @@
           chezmoi
           pstree
           sapling
+          jujutsu
+          lazyjj
 
           # dev tools
           kubectl
@@ -61,7 +63,7 @@
           mise
           flyctl
           neovim
-          monolith
+          #monolith
           just
           sqlite
           cmake

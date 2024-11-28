@@ -33,6 +33,7 @@
           openssl
           yazi
           gitui
+          lazygit
           tig
           readline
           watch

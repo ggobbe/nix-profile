@@ -44,6 +44,7 @@
           sapling
           jujutsu
           lazyjj
+          watchexec
 
           # dev tools
           kubectl

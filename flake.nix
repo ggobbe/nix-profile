@@ -43,7 +43,7 @@
           pstree
           sapling
           jujutsu
-          lazyjj
+          # lazyjj
           watchexec
 
           # dev tools
@@ -59,6 +59,9 @@
           mongodb-tools
           okteto
           docker
+          docker-compose
+          docker-buildx
+          colima
           dive
           #biome
           #android-tools

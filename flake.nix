@@ -58,10 +58,10 @@
           efm-langserver          # eslint in helix
           mongodb-tools
           okteto
-          docker
-          docker-compose
-          docker-buildx
-          colima
+          # docker
+          # docker-compose
+          # docker-buildx
+          # colima
           dive
           #biome
           #android-tools

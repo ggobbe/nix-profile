@@ -90,7 +90,7 @@
           # others
           yt-dlp
           exercism
-          taskwarrior
+          taskwarrior3
         ];
       };
   };

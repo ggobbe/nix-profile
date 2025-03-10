@@ -45,6 +45,7 @@
           jujutsu
           # lazyjj
           watchexec
+          less
 
           # dev tools
           kubectl

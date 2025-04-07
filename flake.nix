@@ -79,6 +79,7 @@
           # podman
           # rabbitmq-server
           graphviz
+          nix-tree
 
           # infrastructure
           k9s

@@ -25,8 +25,8 @@
 #          gnused
 #          ripgrep
           zellij
-#          pandoc
-          helix
+         pandoc
+          # helix
 #          aerc
           btop
           jq
@@ -46,6 +46,7 @@
           # lazyjj
 #          watchexec
           less
+          nmap
 
           # dev tools
           kubectl
@@ -63,7 +64,7 @@
           # docker-compose
           # docker-buildx
           # colima
-#          dive
+         dive
           #biome
           #android-tools
           mise

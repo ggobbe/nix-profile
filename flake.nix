@@ -27,7 +27,7 @@
           zellij
          pandoc
           # helix
-#          aerc
+         aerc
           btop
           jq
           openssl

@@ -33,7 +33,7 @@
           openssl
           yazi
           gitui
-#          lazygit
+         lazygit
 #          tig
 #          readline
           watch
@@ -42,8 +42,8 @@
           chezmoi
 #          pstree
 #          sapling
-#          jujutsu
-          # lazyjj
+         jujutsu
+          lazyjj
 #          watchexec
           less
           nmap

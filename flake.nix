@@ -18,32 +18,26 @@
           # general tools
           git
           git-lfs
-#          ffmpeg
           curl
           wget
           jq
-#          gnused
-#          ripgrep
+#         gnused
+#         ripgrep
           zellij
-         pandoc
-          # helix
-         aerc
+          pandoc
+          helix
           btop
           jq
           openssl
           yazi
           gitui
-         lazygit
-#          tig
-#          readline
+          lazygit
+          tig
           watch
           tree
-          # fish
           chezmoi
-#          pstree
-#          sapling
-         jujutsu
-          lazyjj
+#         jujutsu
+#          lazyjj
 #          watchexec
           less
           nmap
@@ -51,36 +45,15 @@
           # dev tools
           kubectl
           kubectx
-          #lima
           protobuf
           buf
-          #buf-language-server
           clang-tools
-#          yaml-language-server    # yaml in helix
-#          efm-langserver          # eslint in helix
           mongodb-tools
-#          okteto
-          # docker
-          # docker-compose
-          # docker-buildx
-          # colima
-         dive
-          #biome
-          #android-tools
+          dive
           mise
           flyctl
           neovim
-          #monolith
-#          just
-#          sqlite
-#          cmake
-#          ninja
-#          ccache
-          # vscode-langservers-extracted  # eslint format in helix
           # podman
-          # rabbitmq-server
-#          graphviz
-#          nix-tree
 
           # infrastructure
           k9s
@@ -91,8 +64,7 @@
 
           # others
           yt-dlp
-          exercism
-#          taskwarrior3
+        #exercism
         ];
       };
   };

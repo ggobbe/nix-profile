@@ -11,6 +11,7 @@
     formatter.aarch64-darwin = nixpkgs.legacyPackages.aarch64-darwin.nixfmt;
     packages."aarch64-darwin".default =
       let pkgs = nixpkgs.legacyPackages."aarch64-darwin";
+      aercNoNotmuch = pkgs.aerc.override { withNotmuch = false; };
       in pkgs.buildEnv {
         name = "home-packages";
         paths = with pkgs; [
@@ -64,7 +65,8 @@
 
           # others
           yt-dlp
-        #exercism
+          aercNoNotmuch
+          exercism
         ];
       };
   };

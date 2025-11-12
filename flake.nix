@@ -42,6 +42,7 @@
 #          watchexec
           less
           nmap
+          jwt-cli
 
           # dev tools
           kubectl

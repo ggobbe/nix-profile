@@ -31,7 +31,7 @@
           jq
           openssl
           yazi
-          gitui
+       # gitui
           lazygit
           tig
           watch
@@ -53,7 +53,7 @@
           mongodb-tools
           dive
           mise
-          flyctl
+       #flyctl
           neovim
           # podman
 

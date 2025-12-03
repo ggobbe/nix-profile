@@ -61,7 +61,7 @@
           k9s
 
           # programming environments
-          erlang_27
+          erlang_28
           rebar3
 
           # others

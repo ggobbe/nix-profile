@@ -43,6 +43,7 @@
           less
           nmap
           jwt-cli
+          shellcheck
 
           # dev tools
           kubectl

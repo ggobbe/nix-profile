@@ -44,7 +44,6 @@
           nmap
           jwt-cli
           shellcheck
-          opencode
 
           # dev tools
           kubectl

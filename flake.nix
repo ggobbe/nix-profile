@@ -44,6 +44,7 @@
           nmap
           jwt-cli
           shellcheck
+          ripgrep
 
           # dev tools
           kubectl

@@ -70,6 +70,7 @@
           yt-dlp
           aercNoNotmuch
           exercism
+          ffmpeg
         ];
       };
   };

@@ -69,6 +69,7 @@
           # others
           yt-dlp
           aercNoNotmuch
+          # himalaya
           exercism
           ffmpeg
         ];

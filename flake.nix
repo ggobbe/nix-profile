@@ -19,6 +19,7 @@
           # general tools
           git
           git-lfs
+          git-sizer
           curl
           wget
           jq

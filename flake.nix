@@ -5,9 +5,12 @@
 # rm flake.lock
 
 {
-  inputs = { nixpkgs.url = "github:NixOS/nixpkgs"; };
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs";
+    helix.url = "github:helix-editor/helix";
+  };
 
-  outputs = { self, nixpkgs }: {
+  outputs = { self, nixpkgs, helix }: {
     formatter.aarch64-darwin = nixpkgs.legacyPackages.aarch64-darwin.nixfmt;
     packages."aarch64-darwin".default =
       let pkgs = nixpkgs.legacyPackages."aarch64-darwin";
@@ -27,7 +30,7 @@
 #         ripgrep
           zellij
           pandoc
-          helix
+          helix.packages."aarch64-darwin".default
           btop
           jq
           openssl
